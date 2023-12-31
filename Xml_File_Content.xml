@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <MndtAccptncRpt>
+        <GrpHdr>
+            <MsgId>232570018800020832023</MsgId>
+            <CreDtTm>2023-09-16T13:10:12</CreDtTm>
+            <InstgAgt>
+                <FinInstnId>
+                    <ClrSysMmbId>
+                        <MmbId>YESB0000001</MmbId>
+                    </ClrSysMmbId>
+                    <Nm>Yes Bank Ltd</Nm>
+                </FinInstnId>
+            </InstgAgt>
+            <InstdAgt>
+                <FinInstnId>
+                    <ClrSysMmbId>
+                        <MmbId>ICIC0001690</MmbId>
+                    </ClrSysMmbId>
+                    <Nm>ICICI BANK LTD</Nm>
+                </FinInstnId>
+            </InstdAgt>
+        </GrpHdr>
+        <UndrlygAccptncDtls>
+            <OrgnlMsgInf>
+                <MsgId>c2e9376e87154185a6dd8d3f7fb7e580</MsgId>
+                <MsgNmId>pain.009.001.01</MsgNmId>
+                <CreDtTm>2023-09-14T13:16:07</CreDtTm>
+            </OrgnlMsgInf>
+            <AccptncRslt>
+                <Accptd>true</Accptd>
+                <RjctRsn>
+                    <Prtry>ac01</Prtry>
+                </RjctRsn>
+            </AccptncRslt>
+            <OrgnlMndt>
+                <OrgnlMndtId>ICIC0000000015946023</OrgnlMndtId>
+            </OrgnlMndt>
+        </UndrlygAccptncDtls>
+    </MndtAccptncRpt>
+</Document>
+
