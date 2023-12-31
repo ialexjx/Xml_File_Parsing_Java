@@ -1,1 +1,14 @@
+org/example/model/FinInstnId.class
 org/example/Main.class
+org/example/model/Document.class
+org/example/model/AccptncRslt.class
+org/example/model/GrpHdr.class
+org/example/service/ReadXmlFile.class
+org/example/model/RjctRsn.class
+org/example/model/MndtAccptncRpt.class
+org/example/model/InstdAgt.class
+org/example/model/UndrlygAccptncDtls.class
+org/example/model/InstgAgt.class
+org/example/model/OrgnlMndt.class
+org/example/model/ClrSysMmbId.class
+org/example/model/OrgnlMsgInf.class
